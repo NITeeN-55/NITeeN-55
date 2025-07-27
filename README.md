@@ -17,7 +17,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NITeeN-55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### 🚀 Languages & Tools
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -47,6 +51,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NITeeN-55&theme=react-dark&area=true&hide_border=true" alt="NITeeN-55 contribution graph"/>
 </p>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
