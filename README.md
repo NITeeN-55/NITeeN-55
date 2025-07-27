@@ -89,6 +89,9 @@
   <a href="https://www.linkedin.com/in/niteen-wadhai55" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://x.com/niteen_wadhai55" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile"/>
+  </a>
   <a href="mailto:niteenwadhai55@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
