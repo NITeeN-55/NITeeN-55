@@ -19,9 +19,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NITeeN-55&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-### 🚀 Languages & Tools
 
 ---
+
+### 🚀 Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
