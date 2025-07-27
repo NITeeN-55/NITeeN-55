@@ -41,6 +41,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITeeN-55&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NITeeN-55&show_icons=true&theme=tokyonight" alt="NITeeN-55 stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITeeN-55&theme=tokyonight" alt="NITeeN-55 streak"/>
 </p>
