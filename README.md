@@ -64,13 +64,18 @@
 
 ### 🌟 Quote of the Day
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </p>
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NITeeN-55&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
