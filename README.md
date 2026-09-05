@@ -1,4 +1,14 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://niteen-55.github.io/Portfolio/)
+<div align="center">
+
+<a href="https://niteen-55.github.io/Portfolio/">
+  <img
+    src="https://raw.githubusercontent.com/NITeeN-55/NITeeN-55/main/assets/header-banner.gif"
+    alt="NITEEN_55 - Full Stack Developer"
+    width="100%"
+  />
+</a>
+
+</div>
 <h1 align="center">Hi 👋, I'm Niteen Shivram Wadhai</h1> 
 <h3 align="center">Software Engineer | Full Stack Developer | MERN Stack Developer</h3>
 
