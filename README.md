@@ -2,7 +2,7 @@
 
 <a href="https://niteen-55.github.io/Portfolio/">
   <img
-    src="https://raw.githubusercontent.com/NITeeN-55/NITeeN-55/main/assets/header-banner.gif"
+    src="https://raw.githubusercontent.com/NITeeN-55/NITeeN-55/main/assets/niteen55-github-header-animated.gif"
     alt="NITEEN_55 - Full Stack Developer"
     width="100%"
   />
